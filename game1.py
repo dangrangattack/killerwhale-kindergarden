@@ -87,6 +87,9 @@ elif score in lose:
 
 
 
+#깃허브만듬 개꿀
+
+
 
 
 
